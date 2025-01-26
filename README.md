@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keerat Panwar and I'm a aspiring software developer from Delhi,India</h2>
+<h2 align="left">Hi 👋! My name is Keerat Panwar and I'm an aspiring software developer from Delhi,India</h2>
 
 ###
 
