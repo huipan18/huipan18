@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/huipan18/huipan18/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/huipan18/huipan18/blob/7c2ee280fab24990ba0a4c49fb9527cc809ba9a7/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
