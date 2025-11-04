@@ -8,7 +8,7 @@
 🌱 I’m currently learning <b>Full-Stack Web Development</b><br>
 💡 Passionate about <b>building creative digital experiences</b><br>
 🎯 Goal: To become a <b>skilled and impactful software engineer</b><br>
-📫 Reach me at: <b>keeratpanwar.dev@gmail.com</b>
+📫 Reach me at: <b>keeratpanwa1804@gmail.com</b>
 </p>
 
 ###
