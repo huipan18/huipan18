@@ -1,53 +1,79 @@
-<h2 align="left">Hi 👋! I'm Keerat Panwar, an aspiring software developer from Delhi, India 🇮🇳</h2>
+<h2 align="left">
+Hi, I’m Keerat Panwar — a Computer Science student based in Delhi, India
+</h2>
 
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZvOXAyNXB6Y2lyNmwwOTVkNmpuNjZ2ZmMxeWdmN3RsampoYzQxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzTDF5eeYBVUO6Sgyf/giphy.gif" alt="coding animation" />
+<img align="right" height="150"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZvOXAyNXB6Y2lyNmwwOTVkNmpuNjZ2ZmMxeWdmN3RsampoYzQxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzTDF5eeYBVUO6Sgyf/giphy.gif"
+alt="coding animation" />
 
 <p align="left">
-🌱 I’m currently learning <b>Full-Stack Web Development</b><br>
-💡 Passionate about <b>building creative digital experiences</b><br>
-🎯 Goal: To become a <b>skilled and impactful software engineer</b><br>
-📫 Reach me at: <b>keeratpanwa1804@gmail.com</b>
+I’m a 4th-year Computer Science student currently building a strong foundation in software development.<br><br>
+I enjoy learning through hands-on practice, experimenting with ideas, and gradually improving my problem-solving skills.<br><br>
+My goal is to grow into a reliable and thoughtful software engineer by consistently learning and building.
 </p>
 
-###
+---
+
+<h3 align="left">What I’m Currently Focused On</h3>
+
+<ul align="left">
+  <li>Learning core programming and web fundamentals</li>
+  <li>Practicing problem-solving through small exercises</li>
+  <li>Understanding how real-world applications are structured</li>
+</ul>
+
+---
+
+<h3 align="left">GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huipan18&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huipan18&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=huipan18&show_icons=true&count_private=true&theme=dracula"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=huipan18&layout=compact&langs_count=5&theme=dracula"
+    height="150"
+    alt="Top languages"
+  />
 </div>
 
-###
+---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left">Languages & Tools (Learning / Practicing)</h3>
+
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
 </div>
 
-###
+---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left">Connect</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/keerat-panwar-981914144/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/huipan18/huipan18/output/snake.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/huipan18/huipan18/output/snake.svg"
+    alt="Contribution graph animation"
+  />
 </div>
