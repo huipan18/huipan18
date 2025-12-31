@@ -33,28 +33,31 @@ My goal is to grow into a reliable and thoughtful software engineer by consisten
   />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huipan18&theme=dracula"
-    alt="Most used language"
+    height="150"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huipan18&theme=dracula"
     height="150"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huipan18&theme=dracula"
-    alt="GitHub stats"
     height="150"
   />
 </div>
 
 
 
+
 ---
 
-<h3 align="left">Languages & Tools (Learning / Practicing)</h3>
+<h3 align="center">Languages & Tools (Learning / Practicing)</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
@@ -68,9 +71,9 @@ My goal is to grow into a reliable and thoughtful software engineer by consisten
 
 ---
 
-<h3 align="left">Connect</h3>
+<h3 align="center">Connect</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/keerat-panwar-981914144/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
