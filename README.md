@@ -28,16 +28,26 @@ My goal is to grow into a reliable and thoughtful software engineer by consisten
 
 <div align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=huipan18&show_icons=true&theme=dracula"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=huipan18&layout=compact&theme=dracula&langs_count=6"
-    height="150"
-    alt="Top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huipan18&theme=dracula"
+    alt="GitHub Profile Summary"
   />
 </div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huipan18&theme=dracula"
+    alt="Most used language"
+    height="150"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huipan18&theme=dracula"
+    alt="GitHub stats"
+    height="150"
+  />
+</div>
+
 
 
 ---
