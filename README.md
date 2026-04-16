@@ -131,7 +131,7 @@ I've interned at **IIT Delhi**, **Equibre**, and **NSUT**, and I enjoy working o
 
   <!-- Fallback: Using a space-themed capsule render footer while you set up the 3D graph -->
   <img
-    src="https://raw.githubusercontent.com/huipan18/huipan18/output/snake.svg"
+    src="https://raw.githubusercontent.com/huipan18/huipan18/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="Contribution animation"
   />
 
