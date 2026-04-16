@@ -1,35 +1,96 @@
-<h2 align="left">
-Hi, I’m Keerat Panwar — a Computer Science student based in Delhi, India
-</h2>
+<div align="center">
 
-<img align="right" height="150"
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZvOXAyNXB6Y2lyNmwwOTVkNmpuNjZ2ZmMxeWdmN3RsampoYzQxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzTDF5eeYBVUO6Sgyf/giphy.gif"
-alt="coding animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Keerat%20Panwar&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%7C%20Full-Stack%20%7C%20Delhi%2C%20India&descAlignY=85&descSize=16&descColor=aaaaff" />
 
-<p align="left">
-I’m a 4th-year Computer Science student currently building a strong foundation in software development.<br><br>
-I enjoy learning through hands-on practice, experimenting with ideas, and gradually improving my problem-solving skills.<br><br>
-My goal is to grow into a reliable and thoughtful software engineer by consistently learning and building.
-</p>
+</div>
 
----
+<br/>
 
-<h3 align="left">What I’m Currently Focused On</h3>
+<img align="right" height="160"
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZvOXAyNXB6Y2lyNmwwOTVkNmpuNjZ2ZmMxeWdmN3RsampoYzQxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzTDF5eeYBVUO6Sgyf/giphy.gif"
+  alt="coding animation" />
 
-<ul align="left">
-  <li>Learning core programming and web fundamentals</li>
-  <li>Practicing problem-solving through small exercises</li>
-  <li>Understanding how real-world applications are structured</li>
-</ul>
+### Hey, I'm Keerat 👋
+
+I'm a Computer Science graduate (B.Tech, GGSIPU Delhi) with hands-on experience across **full-stack development**, **AI/LLM tooling**, and **UI/UX design**. I like building things end-to-end — from prototyping in Figma to shipping with React and Python.
+
+I've interned at **IIT Delhi**, **Equibre**, and **NSUT**, and I enjoy working on projects that sit at the intersection of engineering and creativity — whether that's an AI-powered email generator or a macOS-inspired interactive portfolio.
+
+<br clear="both"/>
 
 ---
 
-<h3 align="left">GitHub Activity</h3>
+### 🚀 What I've Shipped
+
+| Project | Stack | Highlight |
+|---|---|---|
+| 🛸 **NASA Artemis II Trajectory Analysis** | Python, Pandas, Matplotlib | Processed raw NASA telemetry data & visualized spacecraft motion |
+| 🖥️ **macOS-style Interactive Portfolio** | React, JavaScript, CSS | Window management system, animations, desktop-like UX |
+| 🤖 **AI Cold Email Generator** | Llama 3.1, LangChain, ChromaDB, Streamlit | Extracts job descriptions from URLs → generates personalized cold emails |
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
+
+<br/><br/>
+
+**Web & Frameworks**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" title="CSS3" />
+
+<br/><br/>
+
+**AI / Data**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
+&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="28" />
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" height="28" />
+
+<br/><br/>
+
+**Tools & Design**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="Figma" title="Figma" />
+
+</div>
+
+---
+
+### 📈 GitHub Activity
 
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huipan18&theme=dracula"
     alt="GitHub Profile Summary"
+    width="100%"
   />
 </div>
 
@@ -40,54 +101,64 @@ My goal is to grow into a reliable and thoughtful software engineer by consisten
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huipan18&theme=dracula"
     height="150"
   />
+  &nbsp;
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huipan18&theme=dracula"
     height="150"
   />
+  &nbsp;
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huipan18&theme=dracula"
     height="150"
   />
 </div>
 
-
-
-
 ---
 
-<h3 align="center">Languages & Tools (Learning / Practicing)</h3>
+### 🌌 Contribution Starfield
+
+<!-- 
+  ✨ STARSHIP ALTERNATIVE TO SNAKE:
+  This uses a 3D contribution graph generated by the github-profile-3d-contrib action.
+  Setup: Add the workflow below to .github/workflows/profile-3d.yml in your repo,
+  then replace the snake.svg line below with the 3D graph URL.
+-->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" />
-</div>
 
----
+  <!-- Once the 3D action is set up, replace with: -->
+  <!-- <img src="https://raw.githubusercontent.com/huipan18/huipan18/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" /> -->
 
-<h3 align="center">Connect</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/keerat-panwar-981914144/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="35"
-      alt="LinkedIn"
-    />
-  </a>
-</div>
-
-<br clear="both">
-
-<div align="center">
+  <!-- Fallback: Using a space-themed capsule render footer while you set up the 3D graph -->
   <img
     src="https://raw.githubusercontent.com/huipan18/huipan18/output/snake.svg"
-    alt="Contribution graph animation"
+    alt="Contribution animation"
   />
+
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/keerat-panwar-981914144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Keerat%20Panwar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="34" />
+  </a>
+  &nbsp;
+  <a href="mailto:keeratpanwar1804@gmail.com">
+    <img src="https://img.shields.io/badge/Email-keeratpanwar1804@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/huipan18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-huipan18-181717?style=for-the-badge&logo=github&logoColor=white" height="34" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
